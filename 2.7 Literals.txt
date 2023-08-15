@@ -27,7 +27,7 @@ public class hello {
 	c++;
 	
 	char c1='a';
-	c1++;
+	c1++;           // yha par actually 1 ka aschii value add ho jata hai and so 'b' print hoga
 	System.out.println(c1);
 	}
 
